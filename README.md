@@ -1,7 +1,7 @@
 # benchmarks
 
-###HPL: https://www.netlib.org/benchmark/hpl/
+HPL: https://www.netlib.org/benchmark/hpl/
 
-###HPCG: https://www.hpcg-benchmark.org/software/view.html?id=262
+HPCG: https://www.hpcg-benchmark.org/software/view.html?id=262
 
-###Graph500: https://graph500.org/
+Graph500: https://graph500.org/
